@@ -1,4 +1,4 @@
-# Aquarius.jl <img align="right" src="./images/aquarius_logo2.png" height="50"></img>
+# Aquarius.jl <img align="right" src="./images/aquarius_logo2.png" height="70"></img>
 Aquarius is a Julia high-level visualization library with Vega-Lite as a backed. Although there exists many plotting libraries in the Julia community,
 the goal of this library is to do *easy and beautiful* visualizations, similarly to the [ Seaborn ]( https://github.com/mwaskom/seaborn ) python library.
 For achieving this goal, [VegaLite.jl]( https://github.com/queryverse/VegaLite.jl ) is of great help, since it already provides a beatiful and resourceful plotting library.
