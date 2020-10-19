@@ -1,5 +1,10 @@
 module Aquarius
 
-# Write your package code here.
+using VegaLite
 
-end
+export histogram
+
+include("histogram.jl")
+end # module
+
+
